@@ -10,7 +10,7 @@ class Test extends JFrame {
     JButton bt1 = new JButton("Heads");
     JButton bt2 = new JButton("Tails");
     JLabel lb1 = new JLabel("Result: 0 x 0 ");
-    JLabel lb2 = new JLabel("Last Scorer: N/A");
+    JLabel lb2 = new JLabel("Last Flip: N/A");
     Label lb3 = new Label("Winner: DRAW");
     int Tails = 0;
     int Heads = 0;
